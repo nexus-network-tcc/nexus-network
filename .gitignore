@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+!.env.infinityfree
+!.env.render
+storage/logs/*
+!storage/logs/.gitkeep
+storage/lembretes.last
+public/uploads/fotos/*
+!public/uploads/fotos/.gitkeep
+deploy/
+database/backup/

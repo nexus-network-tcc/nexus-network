@@ -1,0 +1,9 @@
+.env
+.env.*
+.git
+deploy
+docs
+database
+storage/logs/*
+storage/lembretes.last
+public/uploads/fotos/*

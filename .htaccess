@@ -1,0 +1,4 @@
+# Encaminha todas as requisições para a pasta public/
+Options -Indexes
+RewriteEngine On
+RewriteRule ^(.*)$ public/$1 [L]
